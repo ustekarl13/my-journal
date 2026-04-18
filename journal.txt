@@ -7,3 +7,5 @@ I'm adding another change to the file.
 I edited this directly on github.
 
 I will use the pull command this time.
+
+I hate life I wish to die without hurting my loved ones.
